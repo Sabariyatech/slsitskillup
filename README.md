@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SLSIT Skillup - Professional Development Platform
 
 A modern, animated recreation of the SLSIT Skillup website built with React + Vite, featuring professional UI design and smooth background animations.
@@ -134,3 +135,7 @@ For support and questions, please contact:
 ---
 
 Built with ❤️ for SLSIT Skillup
+=======
+# slsitskillup
+Official website project for SLS IT SkillUp – a platform to showcase courses, training programs, and career resources.
+>>>>>>> d12b608065efc9ddc799200b5b7313fc38eaafbf
